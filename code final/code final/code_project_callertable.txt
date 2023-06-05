@@ -1,0 +1,13 @@
+main
+	__CC2DW
+		____DoICP
+	CCPPWM_init
+	follow_line
+		serial_interface
+		reciever
+		transmitter
+		stop
+		move_forward
+		turn_left
+		my_delay
+		turn_right
